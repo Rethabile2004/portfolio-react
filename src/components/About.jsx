@@ -9,7 +9,7 @@ const About = () => {
                 <img src={aboutSvg} className='w-full h-64' />
                 <article>
                 <SectionTitle title="code and cofee" />
-                <p className='text-slate-600 mt-8 leading-loose'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Commodi nam distinctio eius laborum assumenda earum? Veritatis provident reprehenderit repellendus, ducimus rerum architecto maxime sapiente consequuntur, eligendi, nobis esse iure dolore.
+                <p className='text-slate-600 mt-8 leading-loose'>I build modern, full-featured web applications with clean, maintainable code and a strong focus on user experience. My codebase reflects a passion for writing efficient, scalable solutions using the latest technologies. From designing intuitive interfaces with Next.js and Tailwind CSS to implementing secure authentication, database integration, and payment processing, I take pride in crafting digital products that are both functional and polished. Whether it's an e-commerce platform like Next Commerce or other full-stack projects, every line of code is written with attention to performance, security, and long-term maintainability.
                 </p>
                     
                 </article>

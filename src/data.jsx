@@ -32,26 +32,10 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
-    img: 'https://images.pexels.com/photos/326503/pexels-photo-326503.jpeg?auto=compress&cs=tinysrgb&w=800',
-    url: 'https://react-projects.netlify.app/',
-    github: 'https://github.com/john-smilga',
-    title: 'first project',
-    text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.',
-  },
-  {
-    id: nanoid(),
-    img: 'https://images.pexels.com/photos/2148222/pexels-photo-2148222.jpeg?auto=compress&cs=tinysrgb&w=800',
-    url: 'https://react-projects.netlify.app/',
-    github: 'https://github.com/john-smilga',
-    title: 'second project',
-    text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.',
-  },
-  {
-    id: nanoid(),
-    img: 'https://images.pexels.com/photos/12883026/pexels-photo-12883026.jpeg?auto=compress&cs=tinysrgb&w=800',
-    url: 'https://react-projects.netlify.app/',
-    github: 'https://github.com/john-smilga',
-    title: 'third project',
-    text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.',
+    img: 'src/assets/projects/nextjs.png',
+    url: 'https://www.linkedin.com/in/rethabile-eric-siase-6199a131a/',
+    github: 'https://github.com/Rethabile2004/next-commerce',
+    title: 'next commrce',
+    text: 'Next Commerce is a comprehensive e-commerce application demonstrating modern web development with Next.js. It features product browsing, shopping cart, favorites, reviews, secure checkout with Stripe, and a protected admin dashboard for managing products and orders.',
   },
 ];
